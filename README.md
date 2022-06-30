@@ -9,17 +9,6 @@
 - [KutsuReco](https://kutsureco.page.link/appstore)
 - [Location47](https://apps.apple.com/jp/app/location47/id1546722883)
 
-
-# 経歴
-## 物流企業の社内SE
-期間 ： 2017/04/01〜2021/03/31
-### 概要
-コンテナターミナルで使用するシステムの開発
-### 使用技術
-- java
-- Oracle
-- HTML/CSS
-
 ## リユース企業のIT事業部
 期間 ： 2021/04/01〜
 ### 概要
@@ -70,3 +59,14 @@
   - Cloud Storage
   - Firebase Cloud Messaging
   - Cloud Functions
+
+# 経歴
+## 物流企業の社内SE
+期間 ： 2017/04/01〜2021/03/31
+### 概要
+コンテナターミナルで使用するシステムの開発
+### 使用技術
+- java
+- Oracle
+- HTML/CSS
+
