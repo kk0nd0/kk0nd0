@@ -9,8 +9,17 @@
 - [KutsuReco](https://kutsureco.page.link/appstore)
 - [Location47](https://apps.apple.com/jp/app/location47/id1546722883)
 
+## フリーランス
+期間 ： 2022/08/01〜
+### 概要
+スタンプラリーアプリ
+### 使用技術
+- Flutter
+- Azure Functions
+- Azure CosmosDB
+
 ## リユース企業のIT事業部
-期間 ： 2021/04/01〜
+期間 ： 2021/04/01〜2022/07/30
 ### 概要
 クローゼットアプリの開発、保守
 ### 使用技術
