@@ -1,13 +1,8 @@
 # KondoKeima
 1994年生まれの兵庫県出身。
+趣味は革靴、ゴルフ、カヤック
 
-趣味は革靴、ゴルフ、筋トレ
-
-大阪のリユース企業でFlutter,Swift,Firebaseを用いてモバイルアプリ開発を行なっています。
-
-# 個人アプリ
-- [KutsuReco](https://kutsureco.page.link/appstore)
-- [Location47](https://apps.apple.com/jp/app/location47/id1546722883)
+# 経歴
 
 ## フリーランス
 期間 ： 2022/08/01〜
@@ -69,7 +64,6 @@
   - Firebase Cloud Messaging
   - Cloud Functions
 
-# 経歴
 ## 物流企業の社内SE
 期間 ： 2017/04/01〜2021/03/31
 ### 概要
@@ -78,4 +72,9 @@
 - java
 - Oracle
 - HTML/CSS
+
+
+# 個人アプリ
+- [KutsuReco](https://kutsureco.page.link/appstore)
+- [Location47](https://apps.apple.com/jp/app/location47/id1546722883)
 
