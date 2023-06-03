@@ -37,32 +37,6 @@
 - Firebase
   - Firebase Cloud Messaging
 
-## KutsuReco
-### 概要
-革靴・靴磨き好きのためのアプリ
-
-[革靴好きの為のアプリを作った話](https://note.com/bean_men/n/n17d652dd15ec)
-
-### 使用技術
-- Flutter
-- Firebase
-  - Firestore
-  - Authentication
-  - Cloud Storage
-  - Firebase Cloud Messaging
-
-## Location47
-### 概要
-位置情報を使ってユーザ全員で日本地図を塗っていくアプリ
-
-### 使用技術
-- Flutter
-- Firebase
-  - Firestore
-  - Authentication
-  - Cloud Storage
-  - Firebase Cloud Messaging
-  - Cloud Functions
 
 ## 物流企業の社内SE
 期間 ： 2017/04/01〜2021/03/31
@@ -74,7 +48,19 @@
 - HTML/CSS
 
 
-# 個人アプリ
-- [KutsuReco](https://kutsureco.page.link/appstore)
-- [Location47](https://apps.apple.com/jp/app/location47/id1546722883)
+# 個人開発
+
+## KutsuReco
+### 概要
+革靴・靴磨きを管理するためのアプリ
+
+[革靴好きの為のアプリを作った話](https://note.com/bean_men/n/n17d652dd15ec)
+
+### 使用技術
+- Flutter
+- Firebase
+  - Firestore
+  - Authentication
+  - Cloud Storage
+  - Firebase Cloud Messaging
 
